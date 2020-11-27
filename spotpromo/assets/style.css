@@ -1,0 +1,10 @@
+ .side {
+     display: flex;
+     align-items: baseline;
+     font-weight: bold;
+     cursor: pointer;
+ }
+ 
+ .side select {
+     margin-top: 10px;
+ }
